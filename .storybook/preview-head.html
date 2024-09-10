@@ -1,0 +1,55 @@
+<style>
+  @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+  * {
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+  }
+  html,
+  body {
+    margin: 0px;
+    height: 100%;
+  }
+  /* a blue color as a generic focus style */
+  button:focus-visible {
+    outline: 2px solid #4a90e2 !important;
+    outline: -webkit-focus-ring-color auto 5px !important;
+  }
+  a {
+    text-decoration: none;
+  }
+
+  :root {
+    --system-colors-colors-cyan: rgba(50, 173, 230, 1);
+    --system-colors-colors-green: rgba(52, 199, 89, 1);
+    --system-colors-fills-secondary: rgba(120, 120, 128, 0.16);
+  }
+
+  /*
+
+To enable a theme in your HTML, simply add one of the following data attributes to an HTML element, like so:
+
+<body data-system-colors-mode="light">
+<!-- the rest of your content -->
+</body>
+You can apply the theme on any DOM node, not just the `body`
+
+*/
+
+  [data-system-colors-mode="light"] {
+    --system-colors-colors-cyan: rgba(50, 173, 230, 1);
+    --system-colors-colors-green: rgba(52, 199, 89, 1);
+    --system-colors-fills-secondary: rgba(120, 120, 128, 0.16);
+  }
+
+  [data-system-colors-mode="dark"] {
+    --system-colors-colors-cyan: rgba(100, 210, 255, 1);
+    --system-colors-colors-green: rgba(48, 209, 88, 1);
+    --system-colors-fills-secondary: rgba(120, 120, 128, 0.32);
+  }
+
+  [data-system-colors-mode="dark-elevated"] {
+    --system-colors-colors-cyan: rgba(100, 210, 255, 1);
+    --system-colors-colors-green: rgba(48, 209, 88, 1);
+    --system-colors-fills-secondary: rgba(120, 120, 128, 0.32);
+  }
+</style>

@@ -1,0 +1,21 @@
+.component {
+  height: 95px;
+  position: relative;
+  width: 156px;
+}
+
+.component .text-wrapper {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  font-family: "Jura", Helvetica;
+  font-size: 80px;
+  font-weight: 400;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: -2px;
+  width: 156px;
+}

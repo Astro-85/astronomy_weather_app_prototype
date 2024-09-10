@@ -1,0 +1,432 @@
+.frame {
+  background-color: #001e41d4;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .div {
+  background-color: #001e41d4;
+  height: 796px;
+  position: relative;
+  width: 420px;
+}
+
+.frame .toggle-instance {
+  background-color: #32ade6 !important;
+  left: 351px !important;
+  position: absolute !important;
+  top: 17px !important;
+}
+
+.frame .overlap {
+  height: 196px;
+  left: 18px;
+  position: absolute;
+  top: 348px;
+  width: 385px;
+}
+
+.frame .rectangle {
+  background-color: #d9d9d9;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 10px;
+  height: 196px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 383px;
+}
+
+.frame .line {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 100px;
+  width: 383px;
+}
+
+.frame .img {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 148px;
+  width: 383px;
+}
+
+.frame .line-2 {
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 383px;
+}
+
+.frame .mask-group {
+  height: 51px;
+  left: 3px;
+  position: absolute;
+  top: 1px;
+  width: 381px;
+}
+
+.frame .image {
+  height: 142px;
+  left: 3px;
+  position: absolute;
+  top: 53px;
+  width: 381px;
+}
+
+.frame .line-3 {
+  height: 2px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 382px;
+}
+
+.frame .line-4 {
+  height: 2px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 101px;
+  width: 382px;
+}
+
+.frame .line-5 {
+  height: 2px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 150px;
+  width: 382px;
+}
+
+.frame .cloud-icon {
+  height: 18px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 68px;
+  width: 31px;
+}
+
+.frame .window-clipart {
+  height: 34px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 111px;
+  width: 30px;
+}
+
+.frame .eye-icon {
+  height: 30px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 158px;
+  width: 30px;
+}
+
+.frame .image-2 {
+  height: 213px;
+  left: 189px;
+  object-fit: cover;
+  position: absolute;
+  top: 564px;
+  width: 213px;
+}
+
+.frame .overlap-group {
+  height: 213px;
+  left: 18px;
+  position: absolute;
+  top: 564px;
+  width: 57px;
+}
+
+.frame .rectangle-2 {
+  background-color: #d9d9d9;
+  border-radius: 10px;
+  height: 213px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 55px;
+}
+
+.frame .line-6 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 161px;
+  width: 55px;
+}
+
+.frame .line-7 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 55px;
+}
+
+.frame .line-8 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 55px;
+}
+
+.frame .line-9 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 188px;
+  width: 55px;
+}
+
+.frame .line-10 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 134px;
+  width: 55px;
+}
+
+.frame .line-11 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 78px;
+  width: 55px;
+}
+
+.frame .line-12 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 106px;
+  width: 55px;
+}
+
+.frame .cloud-icon-2 {
+  height: 30px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 144px;
+  width: 43px;
+}
+
+.frame .text-wrapper-2 {
+  color: #2b4361;
+  font-family: "Jura", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 175px;
+  width: 56px;
+}
+
+.frame .text-wrapper-3 {
+  color: #2b4361;
+  font-family: "Jura", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 121px;
+  width: 56px;
+}
+
+.frame .text-wrapper-4 {
+  color: #2b4361;
+  font-family: "Jura", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 93px;
+  width: 56px;
+}
+
+.frame .text-wrapper-5 {
+  color: #2b4361;
+  font-family: "Jura", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 65px;
+  width: 56px;
+}
+
+.frame .text-wrapper-6 {
+  color: #2b4361;
+  font-family: "Jura", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 39px;
+  width: 56px;
+}
+
+.frame .text-wrapper-7 {
+  color: #2b4361;
+  font-family: "Jura", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 56px;
+}
+
+.frame .text-wrapper-8 {
+  color: #2b4361;
+  font-family: "Jura", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 199px;
+  width: 56px;
+}
+
+.frame .overlap-2 {
+  background-color: #d9d9d9;
+  border-radius: 10px;
+  height: 213px;
+  left: 93px;
+  position: absolute;
+  top: 564px;
+  width: 78px;
+}
+
+.frame .arrow {
+  height: 76px;
+  left: 17px;
+  position: absolute;
+  top: 22px;
+  width: 45px;
+}
+
+.frame .text-wrapper-9 {
+  color: #2b4361;
+  font-family: "Jura", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 112px;
+  width: 74px;
+}
+
+.frame .settings-icon {
+  height: 33px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 34px;
+}
+
+.frame .component-wrapper {
+  background-image: url(../../../static/img/05-waxing-crescent.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 195px;
+  left: 113px;
+  position: absolute;
+  top: 90px;
+  width: 193px;
+}
+
+.frame .component-instance {
+  left: 27px !important;
+  top: 50px !important;
+}
+
+.frame .h-l-d {
+  color: #ffffff;
+  font-family: "Jura", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 293px;
+  width: 326px;
+}
+
+.frame .new-york-bortle {
+  color: #ffffff;
+  font-family: "Jura", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 93px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 227px;
+}
+
+.frame .span {
+  color: #ffffff;
+  font-family: "Jura", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-10 {
+  font-size: 24px;
+}
